@@ -1,7 +1,7 @@
-## Olá, eu sou Gabriel Dias, estudante de TI e Q&A Test Developer!
+## What's up, I'm Gabriel Dias, IT student and Q&A Test Developer!
 
 - 💼 Q&A Test Developer;
-- 🌱 Estudando Python;
+- 🌱 Studying Python;
  
 <div align="center">
   <a href="https://github.com/gdias9487">
