@@ -18,7 +18,7 @@
   <img align="center" alt="android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg">
   <img align="center" alt="android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
-   <img align="right" alt="bomdia" height="170" style="border-radius:100px;" src="https://64.media.tumblr.com/852f93a6c99707dedb7c7fd2ea4a49bd/tumblr_pwrdzzyLFL1soinwxo2_250.gif">
+   <img align="right" alt="bomdia" height="170" style="border-radius:100px;" src="https://c.tenor.com/t_SMdNFvn5cAAAAC/fullmetal-alchemist-brotherhood-edward-elric.gif">
 
 </div>
 
