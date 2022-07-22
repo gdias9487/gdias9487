@@ -1,7 +1,7 @@
 ## What's up, I'm Gabriel Dias, IT student and Q&A Test Developer!
 
-- 💼 Q&A Test Developer;
-- 🌱 Studying Python;
+- 💼 Q&A Test Automation/Software Development Engineer in Test;
+- 🌱 Studying Python and Cypress;
  
 <div align="center">
   <a href="https://github.com/gdias9487">
