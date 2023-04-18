@@ -18,7 +18,7 @@
   <img align="center" alt="android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg">
   <img align="center" alt="android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
-  <img align="right" alt="edgif" height="170" style="border-radius:100px;" src="https://media.tenor.com/w_Twn_4UbP8AAAAC/demon-slayer-nezuko.gif">
+  <img align="right" alt="edgif" height="170" style="border-radius:100px;" src="https://media.tenor.com/RyqCL0XkE-sAAAAC/suzume-no-tojimari.gif">
 
 </div>
 
