@@ -2,7 +2,7 @@
 
 ## 📜 *About Me*
 - 🛡️ *Q&A Test Automation/Software Development Engineer in Test at [Encora Brazil](https://www.encora.com/?daitan-is-now-encora);*
-- 🏫 *I’m an Information Systems Student from Brazil at [UFRPE](https://www.ufrpe.br).*
+- 🏫 *I’m an Information Systems Student from Brazil at [UFRPE](https://www.ufrpe.br);*
 - 🐞 *Battling bugs with **Cypress framework**;*
 - 🌑 *Delving into the depths of **Robot Framework** and **Selenium Python**;*
 - 📂 *Here you can find my college, work, and study-related projects.*
