@@ -14,7 +14,7 @@
         <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=gdias9487&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Gabriel's GitHub stats"/>
         <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdias9487&layout=compact&langs_count=7&theme=dark" alt="Top Languages"/>
       </a>
-      <img align="right" src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif" alt="Hollow Knight GIF" height="180" style="margin-left: 100px;"/>
+      <img align="right" src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif" alt="Hollow Knight GIF" height="160" style="margin-left: 100px;"/>
     </div>
     
   </div>
