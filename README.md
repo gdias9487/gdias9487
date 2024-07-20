@@ -8,11 +8,16 @@
 - 📂 Here you can find my college, work, and study-related projects.
 
 ## 🔮 My GitHub Realm
-<div align="center">
-  <a href="https://github.com/gdias9487">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=gdias9487&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdias9487&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <div style="display: flex; align-items: flex-start;">
+    <div>
+      <a href="https://github.com/gdias9487">
+        <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=gdias9487&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Gabriel's GitHub stats"/>
+        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdias9487&layout=compact&langs_count=7&theme=dark" alt="Top Languages"/>
+      </a>
+      <img align="right" src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif" alt="Hollow Knight GIF" height="210" style="margin-left: 0px;"/>
+    </div>
+    
+  </div>
 
  ## 🛠️ My Skills, Abilities & Social Media 
 <div style="display: inline_block"><br>
@@ -39,12 +44,6 @@
   <a href="https://www.instagram.com/gd1az_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gdias9487@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-dias-51354619b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
+
 </div>
 
-<div style="position: relative; display: inline-block;">
-  <img src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif" alt="Hollow Knight GIF" height="170" style="position: absolute; top: 0; right: 0; z-index: 1;">
-  <div style="position: relative; z-index: 2; padding-left: 180px;">
-  </div>
-</div>
