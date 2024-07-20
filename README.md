@@ -1,13 +1,13 @@
-# ⚔️ Greetings, I'm Gabriel Dias, IT Knight & Test Developer! 🛡️
+# ⚔️ *Greetings, I'm Gabriel Dias, IT Knight & Test Developer!* 🛡️
 
-## 📜 About Me
-- 🛡️ Q&A Test Automation/Software Development Engineer in Test at [Encora Brazil](https://www.encora.com/?daitan-is-now-encora);
-- 🏫 I’m an Information Systems Student from Brazil at UFRPE.
-- 🐞 Battling bugs with **Cypress framework**;
-- 🌑 Delving into the depths of **Robot Framework** and **Selenium Python**;
-- 📂 Here you can find my college, work, and study-related projects.
+## 📜 *About Me*
+- 🛡️ *Q&A Test Automation/Software Development Engineer in Test at [Encora Brazil](https://www.encora.com/?daitan-is-now-encora);*
+- 🏫 *I’m an Information Systems Student from Brazil at [UFRPE](https://www.ufrpe.br).*
+- 🐞 *Battling bugs with **Cypress framework**;*
+- 🌑 *Delving into the depths of **Robot Framework** and **Selenium Python**;*
+- 📂 *Here you can find my college, work, and study-related projects.*
 
-## 🔮 My GitHub Realm
+## 🔮 *My GitHub Realm*
   <div style="display: flex; align-items: flex-start;">
     <div>
       <a href="https://github.com/gdias9487">
@@ -19,7 +19,7 @@
     
   </div>
 
- ## 🛠️ My Skills, Abilities & Social Media 
+ ## 🛠️ *My Skills, Abilities & Social Media*
 <div style="display: inline_block"><br>
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg">  
